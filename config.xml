@@ -4,8 +4,8 @@
 		id          = "MGApp"
         version     = "1.0.0" >
 
-    <name>First app</name>
-    <description>My first mobile app</description>
+    <name>businesscard</name>
+    <description>app showing your business card, sir!</description>
     <author href="http://nieposiadam.com" email="matt.galant@gmail.com">
 		Mateusz Galant
 	</author>
